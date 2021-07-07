@@ -78,12 +78,12 @@ version in your migrations by having your classes inherit from
 
 You'll be defining the following methods:
 
-- `highest_rating`: this method should return the highest value in the ratings
+<!-- - `highest_rating`: this method should return the highest value in the ratings
   column. _hint_: if there is a `minimum` Active Record method, might there be a
-  `maximum` method?
+  `maximum` method? -->
 
-- `most_popular_show`: this method should return the show with the highest
-  rating. _hint_: use the `highest_rating` method as a helper method.
+<!-- - `most_popular_show`: this method should return the show with the highest
+  rating. _hint_: use the `highest_rating` method as a helper method. -->
 
 - `lowest_rating`: returns the lowest value in the ratings column.
 
